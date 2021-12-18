@@ -9,5 +9,5 @@ Hi! My name is Vladimir, or Vlad in short. I am working as a Data Scientist in F
 </p>
 
 <a href="" target="_blank">
-  <img src="https://github.com/IlievskiV/IlievskiV/blob/master/img/isquared_banner.webp" alt="iSquared banner" width="100%"/>
+  <img src="https://github.com/IlievskiV/IlievskiV/blob/main/img/isquared_banner.webp" alt="iSquared banner" width="100%"/>
 </a>
