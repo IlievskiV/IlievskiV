@@ -8,6 +8,6 @@
 Hi! My name is Vladimir, or Vlad in short. I am working as a Data Scientist in Frontiers. I am the author of <strong><a href="https://isquared.digital" target="_blank">iSquared</a></strong> where I am sharing my passion on explaining science visually.
 </p>
 
-<a href="" target="_blank">
+<a href="https://isquared.digital/" target="_blank">
   <img src="https://github.com/IlievskiV/IlievskiV/blob/main/img/isquared_banner.webp" alt="iSquared banner" width="100%"/>
 </a>
