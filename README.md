@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ilievski.vladimir)
 
 <p>
-Hi! My name is Vladimir, or Vlad in short. I am working as a Data Scientist in Frontiers. I am the author of <strong><a href="https://isquared.digital" target="_blank">iSquared</a></strong> where I am sharing my passion on explaining science visually.
+Hi! My name is Vladimir, or Vlad in short. I am working as a Data Scientist mainly in NLP. I am the author of <strong><a href="https://isquared.digital" target="_blank">iSquared</a></strong> where I am bringing the science closer to the readers.
 </p>
 
 <a href="https://isquared.digital/" target="_blank">
